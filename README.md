@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-VMAX-32CD32?style=for-the-badge&logo=power-automate&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/Version-vpromax-32CD32?style=for-the-badge&logo=power-automate&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/Trạng thái-ONLINE-32CD32?style=for-the-badge&logo=power-automate&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-007BFF?style=for-the-badge" alt="License">
 </p>
@@ -67,8 +67,8 @@ Chỉ 3 bước để kích hoạt cỗ máy của bạn.
 Nhấp vào nút bên dưới. Tampermonkey sẽ tự động mở tab cài đặt. Bạn chỉ cần nhấn **"Install"**.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vmax/main/tampermonkey.user.js" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/CÀI ĐẶT LOCKET PRO NGAY-CLICK ĐỂ BẮT ĐẦU-4CAF50?style=for-the-badge&logo=download&logoColor=white&link=https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vmax/main/tampermonkey.user.js" alt="Install Script" height="50">
+  <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vpromax/main/tampermonkey.user.js" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/CÀI ĐẶT LOCKET PRO NGAY-CLICK ĐỂ BẮT ĐẦU-4CAF50?style=for-the-badge&logo=download&logoColor=white&link=https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-vpromax/main/tampermonkey.user.js" alt="Install Script" height="50">
   </a>
 </p>
 <br>
