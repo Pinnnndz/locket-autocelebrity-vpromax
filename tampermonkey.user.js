@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Auto Celebrity Interceptor - ORION INFINITY (GRID FIX)
+// @name         Auto Celebrity Interceptor - Pin ORION INFINITY
 // @namespace    http://tampermonkey.net/
 // @version      X.2003-GRIDFIX
 // @description  Full ETERNITY PRO UI + Smart Engine Fix + Nuke Notices
-// @author       Huu Phuoc & AI Assistant
+// @author       Huu Phuoc
 // @match        https://locket.binhake.dev/celebrity.html
 // @match        https://locket.binhake.dev/settings.html
 // @require      https://unpkg.com/react@18.2.0/umd/react.production.min.js
